@@ -140,3 +140,4 @@ fieldset.subPanel {width: 47% ;}
 #internal_details_panel {display: none;width:24% !important;}
 
 html, body {background-color:#d9f2ff !important;}
+.dialog-wrapper {height:590px;}
